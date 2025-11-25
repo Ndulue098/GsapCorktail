@@ -9,10 +9,8 @@ export default function App(){
     return (
         <main>
             <Navbar/>
-
             <Hero/>
             <div className={"h-dvh bg-amber-300"}>
-
             </div>
         </main>
     );
